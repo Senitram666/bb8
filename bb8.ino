@@ -1,9 +1,9 @@
-int m1 = 2;
-int m2 = 4;
-int e1 = 3;
+int m1 = 4;//changed to same pins on arduino ROMEO
+int m2 = 2;
+int e1 = 5;
 int e2 = 6;
-int m3 = 5;
-int m4 = 7;
+int m3 = 7;
+int m4 = 3;
 
 void setup() {
   Serial.begin(9600);
